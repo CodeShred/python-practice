@@ -1,4 +1,4 @@
-# This is the collatz sequence
+# This is the collatz sequence rnsing
 
 def collatz(number):
     global r
